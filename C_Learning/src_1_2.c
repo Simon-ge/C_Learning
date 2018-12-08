@@ -1,5 +1,5 @@
 /**
-C Primer Plus 程序清单 1.2 c程序
+C Primer Plus 绋嬪簭娓呭崟 1.2 c绋嬪簭
 */
 #include<stdio.h>
 int main(void) {
