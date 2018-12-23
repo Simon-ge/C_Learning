@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src_1_2.c">
+    <ClCompile Include="showf_pt.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
